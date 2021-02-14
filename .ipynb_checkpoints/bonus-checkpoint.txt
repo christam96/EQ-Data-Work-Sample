@@ -1,0 +1,11 @@
+Bonus: Try to come up with some reasonable hypotheses regarding POIs, state all assumptions, testing steps and conclusions. Include this as a text file (with a name bonus) in your final submission.
+
+----------------------------------------
+
+Hypothesis: If we consider only the land distance between each POI and they're farthest reaching request, POI4's density will increase relative to the other POIs.
+
+Test: I plotted each POI and they're farthest reaching request on a map (see map.png in files). You will notice that the points on the map follow the same distribution of points given in graph of Section 3 in my solution, where the farthest left pair of points represent POI1 and it's farthest request, the middle two points represent POI3 it's farthest request, and the right-most two represent POI4 and it's farthest request. On the map, we can see that POI4 is on the Eastern seaboard of North America and serves requests in Western Europe. 
+
+Conclusion: The density of POI4 currently includes space where no people can live (the Atlantic Ocean). Considering only the land cover that POI4 serves would dramatically increase it's requests density. 
+
+----------------------------------------
